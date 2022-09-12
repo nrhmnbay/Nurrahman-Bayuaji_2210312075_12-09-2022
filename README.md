@@ -1,4 +1,4 @@
-# Nurrahman-Bayuaji_2210312075_(12/09/2022)
+# Nurrahman-Bayuaji_2210312075_tanggal(12/09/2022)
 **Buatlah Biodata kalian disini** <br />
 ----------------------------------------
 |No | Data  | Isian|
