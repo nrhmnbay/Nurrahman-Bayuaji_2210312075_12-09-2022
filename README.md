@@ -9,7 +9,7 @@
 |4.| Link Edabit | https://edabit.com/user/fxNZ3FLroHi92wPJ9 |
 |5|Exp Edabit   | 50  |
 |6| Link Codewars| https://www.codewars.com/users/nrhmnbay   |
-|7| Level Jyu Codewars||
+|7| Level Jyu Codewars|8|
 
 Isilah biodata diatas dan updatelah setiap minggunya,
 Pastikan berikan nama pada file readme anda dengan format <br/>
